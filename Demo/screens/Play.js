@@ -39,7 +39,7 @@ const getDescription = (info) => {
                       Hi! I'm Shreyansh Shah or Shrey. I'm a 29 yr old Software Developer that moved to NZ in 2010 and has called this beatiful country home for the last 10 years. 
                       I built this app to showcase my understanding of basic React Native. This app was created in the space of 2-3 hours
                   </Text>)
-          case "Development Langugages":
+          case "Development Languages":
             return (<Text>
                       My current dev language portfolio includes Java, React, React Native, Python, C#, ASP.NET, Spring, Thymeleaf, MySQL, Hibernate.
                   </Text>)
